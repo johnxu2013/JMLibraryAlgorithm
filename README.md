@@ -1,0 +1,2 @@
+# JMLibraryAlgorithm
+Java machine learning library to implement Machine learning algorithm and port machine learning algorithm from other languages. All algorithm implemented and ported need to have code coverage automation in continuous integration. The goal is to provide highest quality bug-free algorithm to the society of data scientists. If you have time and expertise to contribute to this project, contact jxujohn@gmail.com
